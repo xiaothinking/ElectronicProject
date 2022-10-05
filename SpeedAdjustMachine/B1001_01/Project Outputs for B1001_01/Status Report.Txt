@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [B1001_01.PcbDoc]
+   Generated File[Fabrication Testpoint Report for B1001_01.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:48:41 On 2022/10/5
